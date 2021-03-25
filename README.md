@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I'm currently working on :
+ - [3D Rendering Pipeline](https://github.com/sh4ul4/Pipeline3D)
+ - [Bitmap filters](https://github.com/sh4ul4/RetoucheProject)
+
+## Here's some work I did :
+ - [Text encode/decode UI](https://github.com/sh4ul4/Projet-LA)
 <!--
 **sh4ul4/sh4ul4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
