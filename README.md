@@ -1,7 +1,7 @@
 ## Hi there I'm shaula 👋
 
-I'm a graduate student in Computer Graphics at <b>Ceramics & ICT TACTIC Graduate School</b> stimulated by my past, present and future projects.
-I mostly use <b>C++</b> but try to open up to other languages tho like <b>Cuda<\b>, <b>Python</b>, <b>Java</b> or even <b>Lisp</b>.
+I'm a graduate student in Computer Graphics at <b>Ceramics & ICT TACTIC Graduate School</b>.
+I mostly use <b>C++</b> but try to open up to other languages tho like <b>Cuda<\b>, <b>Python</b>, <b>Java</b> or <b>Lisp</b>.
 After using the <b>SDL</b> and <b>Qt</b> libraries for quite a while now I'm currently learning to properly use <b>OpenGL</b>.
 Feel free to <a href = "mailto: louiswilhelmrs@gmail.com">contact me</a> if you are into <b>3D Rendering</b> or <b>Digital Image processing</b> and have ideas to improve my projects.
 
