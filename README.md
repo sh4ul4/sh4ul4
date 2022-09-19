@@ -3,7 +3,6 @@
 I'm a graduate student in Computer Graphics at <b>Ceramics & ICT TACTIC Graduate School</b>.
 I have experience in computer graphics, computer vision and computational geometry.
 Feel free to <a href = "mailto: louiswilhelmrs@gmail.com">contact me</a> if you are into <b>3D Rendering</b> or <b>Digital Image processing</b> and have ideas to improve my projects.
-I am currently a research assistant in seperate sub-surface scattering of human skin at the University of Sherbrooke.
 <!--
 **sh4ul4/sh4ul4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
