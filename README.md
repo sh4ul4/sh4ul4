@@ -1,4 +1,4 @@
-## Hi there I'm shaula 👋
+## Hi there I'm Louis 👋
 
 
 I'm a PhD researcher in computer graphics and sound simulation at XLIM and Université de Poitiers. My PhD began with aeolian tone synthesis from von Kármán vortex streets and grew to include coherent acoustic transport, real-time wind simulation, and wind authoring for animation.
