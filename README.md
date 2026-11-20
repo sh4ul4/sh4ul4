@@ -4,6 +4,7 @@
 I'm a PhD researcher in computer graphics and sound simulation at XLIM and Université de Poitiers. My PhD began with aeolian tone synthesis from von Kármán vortex streets and grew to include coherent acoustic transport, real-time wind simulation, and wind authoring for animation.
 
 [Research portfolio](https://sh4ul4.github.io/portfolio/)
+
 [Watch the Air in motion reel](https://sh4ul4.github.io/portfolio/assets/air-in-motion.mp4)
 
 I have experience in computer graphics, computer vision and computational geometry.
